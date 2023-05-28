@@ -1,21 +1,21 @@
 # py_course
 
 ## first section
-*flow chart []
-*algorithm
-*syntax []
-*Variables 
-  a- valid variable name []
-  b- global []
-*data type 
-  a- string []
-  b- int []
-  c- float []
-  d- list []
-  e- tuple []
-  f- bool [] 
-  g- dict []
-*casting
-  a- int() []
-  b- float() []
-  c- str() []
+* flow chart []
+* algorithm
+* syntax []
+* Variables 
+  - valid variable name []
+  - global []
+* data type 
+  - string []
+  - int []
+  - float []
+  - list []
+  - tuple []
+  - bool [] 
+  - dict []
+* casting
+  - int() []
+  - float() []
+  - str() []
