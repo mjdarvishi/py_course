@@ -21,9 +21,31 @@
 * string
   - multy line string []
   - string is a list []
-  - len () []
+  - len ('string') []
   - check existing string in another one with in and not in []
   - slicing string: [2:5] , [:5] , [2:] []
   - modify string: upper() , lower() , strip() , replace('a', 'A') , split(',') []
+* list 
+  - append(item)
+  - insert (index,item)
+  - remove(item)
+  - pop(index)
+  - clear()
+  - reverse()
 * if []
 * and or []
+* rang 
+  - range()
+  - range(2, 6)
+  - (2, 30, 3)
+* for 
+  - for item in list:
+  - for index in range(len(list))
+* while i < len(list):
+* function
+  - declare function: def function_name():
+  - arbitrary arguments: def function_name(*args)
+  - arbitrary keyword arguments: def function_name(**kid)
+  - default parameter value: def function_name(country = "Norway"):
+  - return 
+  - pass
