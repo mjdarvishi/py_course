@@ -1,9 +1,9 @@
 # py_course
 
 ## first section
-* flow chart []
-* algorithm
-* syntax []
+* flow chart [*]
+* algorithm [*]
+* syntax [*]
 * Variables 
   - valid variable name []
   - global []
@@ -12,7 +12,6 @@
   - int []
   - float []
   - list []
-  - tuple []
   - bool [] 
   - dict []
 * casting
