@@ -18,3 +18,12 @@
   - int() []
   - float() []
   - str() []
+* string
+  - multy line string []
+  - string is a list []
+  - len () []
+  - check existing string in another one with in and not in []
+  - slicing string: [2:5] , [:5] , [2:] []
+  - modify string: upper() , lower() , strip() , replace('a', 'A') , split(',') []
+* if []
+* and or []
