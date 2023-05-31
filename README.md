@@ -1,6 +1,6 @@
 # py_course
 
-## first section
+## section 1
 * flow chart [*]
 * algorithm [*]
 * syntax [*]
@@ -32,6 +32,7 @@
   - pop(index)
   - clear()
   - reverse()
+## section 2
 * if []
 * and or []
 * rang 
@@ -49,3 +50,4 @@
   - default parameter value: def function_name(country = "Norway"):
   - return 
   - pass
+
