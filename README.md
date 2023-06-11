@@ -1,6 +1,6 @@
 # py_course
 
-## section 1
+## section 2
 * flow chart [*]
 * algorithm [*]
 * syntax [*]
@@ -32,7 +32,7 @@
   - pop(index)
   - clear()
   - reverse()
-## section 2
+## section 3,4
 * if []
 * and or []
 * rang 
