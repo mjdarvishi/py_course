@@ -50,4 +50,17 @@
   - default parameter value: def function_name(country = "Norway"):
   - return 
   - pass
+ ##section 5
+  * open file: open()
+  * wirte and read:
+    - x->create
+    - a->append
+    - w->create and write
+    - r->read
+  * write: write()
+  * read: read()
+  * read lines: readline()
+  * close file: close()
+  * write dict into file: json.dump
+  * load dict string from file: json.load
 
