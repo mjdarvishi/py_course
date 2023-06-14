@@ -50,7 +50,7 @@
   - default parameter value: def function_name(country = "Norway"):
   - return 
   - pass
- ##section 5
+##section 5
   * open file: open()
   * wirte and read:
     - x->create
